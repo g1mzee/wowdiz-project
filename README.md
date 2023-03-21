@@ -77,8 +77,8 @@ SUM|344|5,164|2,035|25,588|100%
 
 ## 👨‍💻Team Members
 [Jiwon Kim, 김지원](https://github.com/g1mzee) | gimzee@naver.com<br>
-[Gimin Lee, 이기민](https://github.com/stevenkimin) | 1993km@naver.com
 [Neung Gwon, 권능](https://github.com/darren-gwon) | darren.gwon@gmail.com<br>
-[Gwangho Lee, 이광호](https://github.com/GHkyleLee) | ghlee4215@naver.com
-[Sungwoon Jung, 정성운](https://github.com/jeongsungwoon) | heeey@nate.com
+[Gimin Lee, 이기민](https://github.com/stevenkimin) | 1993km@naver.com<br>
+[Gwangho Lee, 이광호](https://github.com/GHkyleLee) | ghlee4215@naver.com<br>
+[Sungwoon Jung, 정성운](https://github.com/jeongsungwoon) | heeey@nate.com<br>
 <br>
