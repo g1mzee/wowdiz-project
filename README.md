@@ -1,48 +1,44 @@
-# 크라우드 펀딩 플랫픔 - 와우디즈
+# Crowd Funding Platform - Wowdiz
 
-## 프로젝트 소개
+## Introduce
 
 <br>
 
-## 프로젝트 일정 및 규모
-### 프로젝트 일정
-* 총 개발 기간 : 33일 (22.06.27 ~ 22.07.29)
-* 인원 : 5명
+### Duration
+* 33days (22.06.27 ~ 22.07.29)
+* Number of People : 5
 
 ## 📄 ERD
-이번 프로젝트에서 가장 심혈을 기울인 ERD입니다.<br>
-데이터모델링 수업 외에, 별도 스터디를 진행함으로써 더 견고한 ERD를 설계하기위해 노력했습니다.<br>
-<br>
 
-핵심 모듈 | 갯수
+Module | count
 ---|---|
-유저&파트너|13
-여행상품|6
-커뮤니티 게시판|6
-관리자 통합게시판|5
-결제&예약|4
-유저권한|5
-코드테이블|7
-분석용테이블|4
-기타|9
-**합계**|**59**
+User&Partner|13
+Product|6
+Community|6
+Admin|5
+Payment|4
+User Rights|5
+Code Table|7
+Table for Analysis|4
+etc|9
+**SUM**|**59**
 
 
 <br>
 
-## 주요기능
-* 카카오 로그인
-* 마이페이지
-* 커뮤니티게시판
-* 파트너 입점 신청
-* 파트너 상품 등록
-* KG이니시스 & 카카오페이 결제
-* 관리자 통합게시판
-* 파트너 관리
-* 상품 관리
+## Main Function
+* Kakao Login
+* My Page
+* Community Board
+* Partner Register
+* Product Register
+* KG Inicis & Kakao Pay payment
+* Admin Integrated board
+* Partner Management
+* Product Management
 <br>
 
-## ⚙️ 개발환경
+## Development Environment
 #### Frontend
 <img src="https://camo.githubusercontent.com/5a7100155d1a7b75357a90e8810530b21c8723c59f2976d0dafc7950205336d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/d1a61dccdba51c4d1ff3306fe00404de9162915d282bade8ef91b992f84ebd35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/JAVASCRIPT | ES6-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"> <img src="https://img.shields.io/badge/REACT | 18.2-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black">
 <br>
@@ -65,20 +61,24 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/MySQL Workbench | 8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 
-## 📈 프로젝트 분석
-언어|파일|공백|커맨드|코드|퍼센트
+## 📈 Analisys
+Language|File|Space|Command|Code|Ratio
 ---|---|---|---|---|---|
 Java|161|3,002|596|10,966|42.86%
 JSP|68|1,003|703|6,555|25.62%
 CSS|60|533|367|3,729|14.57%
 Javascript|19|368|258|2,044|7.99%
 Query|26|193|58|1,729|6.75%
-기타|10|65|53|565|2.21%
-합계|344|5,164|2,035|25,588|100%
+etc|10|65|53|565|2.21%
+SUM|344|5,164|2,035|25,588|100%
 
-*API를 제외한, 순수 작성한 코드만 포함하였습니다.
+*Only pure handwritten code is included, excluding any APIs.
 <br>
 
-## 👨‍💻팀원
-[권능](https://github.com/darren-gwon) | darren.gwon@gmail.com<br>
+## 👨‍💻Team Members
+[Jiwon Kim, 김지원](https://github.com/g1mzee) | gimzee@naver.com<br>
+[Gimin Lee, 이기민](https://github.com/stevenkimin) | 1993km@naver.com
+[Neung Gwon, 권능](https://github.com/darren-gwon) | darren.gwon@gmail.com<br>
+[Gwangho Lee, 이광호](https://github.com/GHkyleLee) | ghlee4215@naver.com
+[Sungwoon Jung, 정성운](https://github.com/jeongsungwoon) | heeey@nate.com
 <br>
