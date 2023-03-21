@@ -10,7 +10,7 @@
 
 ## 📄 ERD
 
-Module | count
+module | count
 ---|---|
 User&Partner|13
 Product|6
